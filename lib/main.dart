@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:nested_tabbar_flutter/nestedTabBarView.dart';
 
 void main() => runApp(MyApp());
 
@@ -67,9 +68,8 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
       ),
       body: TabBarView(
         children: <Widget>[
-          Center(
-            child: Text("Home"),
-          ),
+          NestedTabBar(),
+
           Center(
             child: Text("Email"),
           ),
