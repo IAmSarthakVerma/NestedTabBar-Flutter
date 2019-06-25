@@ -1,4 +1,4 @@
-# nested_tabbar_flutter
+# Nested TabBar - Flutter
 
 A application to learn how to build a Nested Tab Bar in Flutter.
 
