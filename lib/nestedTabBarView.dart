@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 
 class NestedTabBar extends StatefulWidget {
-  NestedTabBar({Key key, this.title}) : super(key: key);
-
-  final String title;
 
   @override
   _NestedTabBarState createState() => _NestedTabBarState();
