@@ -4,11 +4,11 @@ An application to learn how to build a Nested Tab Bar in Flutter.
 
 ![nested-tab-bar-flutter](https://user-images.githubusercontent.com/20480867/60137953-329d5000-97c6-11e9-9d65-ecd355e28a74.png)
 
-#Demo
+# Demo
 
 ![nested-tab-bar-flutter-demo](https://user-images.githubusercontent.com/20480867/60137660-3bd9ed00-97c5-11e9-8a2d-c03d668dab20.gif)
 
-#Full Tutorial
+# Full Tutorial
 
 Read full tutorial on Medium:
 [CLICK ME TO READ FULL POST](https://medium.com/@IAmSarthakVerma/build-a-nested-tabbar-in-flutter-7e0cae5cfc7)
